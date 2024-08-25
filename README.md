@@ -1,10 +1,12 @@
 # My website
+[![Installation](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/install.js.yml/badge.svg)](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/install.js.yml)[![Build](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/build.js.yml/badge.svg)](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/build.js.yml)[![Linting](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/lint.js.yml/badge.svg)](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/lint.js.yml)[![Tests](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/tests.js.yml/badge.svg)](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/tests.js.yml)[![Security Scan](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/securityScan.yml/badge.svg)](https://github.com/Vaporjawn/Vaporjawn.github.io/actions/workflows/securityScan.yml)
+
+[![GitHub repo forks](https://img.shields.io/github/forks/Vaporjawn/Vaporjawn.github.io?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/Vaporjawn/Vaporjawn.github.io/network)&#160;[![GitHub repo stars](https://img.shields.io/github/stars/Vaporjawn/Vaporjawn.github.io?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/Vaporjawn/Vaporjawn.github.io/stargazers)&#160;[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/Vaporjawn/Vaporjawn.github.io?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/Vaporjawn/Vaporjawn.github.io/graphs/contributors)[![GitHub org sponsors](https://img.shields.io/github/sponsors/Vaporjawn?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/Vaporjawn)&#160;[![GitHub repo watchers](https://img.shields.io/github/watchers/Vaporjawn/Vaporjawn.github.io?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/Vaporjawn/Vaporjawn.github.io/watchers)&#160;[![GitHub repo size](https://img.shields.io/github/repo-size/Vaporjawn/Vaporjawn.github.io?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/Vaporjawn/Vaporjawn.github.io/archive/refs/heads/main.zip)
 
 I am a freelance software developer with strong analytical skills and proficiency in mathematics. I bring expertise in writing full-stack code to support multiple platforms, including web, android, and iOS, and I have a solid grasp of data structures and object-oriented designs. Come say hey at a hackathon or tech meetup near you.
 
-![website image](images/screenshot.png)
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!-- TODO: Add website screenshot -->
+<!-- ![website image](images/screenshot.png) -->
 
 ## Available Scripts
 
@@ -52,14 +54,6 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
